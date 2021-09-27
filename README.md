@@ -4,8 +4,8 @@
 
 - A simple sidebar made using html, css and javascript.
 
-<img src="screenshot-1.png" alt="uncollapsed">
-<img src="screenshot-2.png" alt="uncollapsed">
+<img src="repo-img/screenshot-1.png" alt="uncollapsed">
+<img src="repo-img/screenshot-2.png" alt="collapsed">
 
 ### Contributer
 
